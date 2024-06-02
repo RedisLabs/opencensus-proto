@@ -1,4 +1,4 @@
-module github.com/census-instrumentation/opencensus-proto
+module github.com/RedisLabs/opencensus-proto
 
 go 1.18
 
